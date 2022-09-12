@@ -1,12 +1,11 @@
 import java.util.Scanner;
 /**
- * меееееЙНННННННННННННННННННННН
+ * Мейн)
  * @author Milana Zhuhaievych
  */
 public class Main {
     /**
-     * ХУЙЙ
-     * @param args
+     * @param args к-сть чисел фібоначі, що будуть перевірені
      */
     public static void main(String[] args) {
         if(args.length==0) {
