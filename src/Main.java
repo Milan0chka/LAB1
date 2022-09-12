@@ -1,9 +1,13 @@
 import java.util.Scanner;
 /**
- * ХУй
+ * меееееЙНННННННННННННННННННННН
  * @author Milana Zhuhaievych
  */
 public class Main {
+    /**
+     * ХУЙЙ
+     * @param args
+     */
     public static void main(String[] args) {
         if(args.length==0) {
             Scanner ScannerInputSize = new Scanner(System.in);
